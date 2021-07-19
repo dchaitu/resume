@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.box {
+  margin: 15px;
+  border-radius: 6px;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/portfolio-sm-bg.png');
+  height: 600px;
+  width: 200px;
+  padding: 20px;
+}
+
+.social-media-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  background-color: #ffffff35;
+  border: 1px solid #ffffff;
+  border-radius: 12px;
+  padding-top: 24px;
+  padding-left: 24px;
+  padding-right: 24px;
+  margin-top: 24px;
+  margin-bottom: 20px;
+  margin-left: 0px;
+}
+
+.app-logo {
+  margin-left: 8px;
+  margin-right: 8px;
+  margin-bottom: 16px;
+}

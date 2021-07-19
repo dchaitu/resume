@@ -1,0 +1,19 @@
+.portfolio-container {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+}
+
+.portfolio-body {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+}
+
+.active-section {
+  display: flex;
+  background-color: #ffffff35;
+  border: 1px solid #ffffff;
+  border-radius: 12px;
+  padding: 24px;
+}
